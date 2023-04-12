@@ -40,4 +40,4 @@ CWE-918,SSRF,src/main/java/Service/vulnerability/ssrf/SSRFVulnerability,87,5
 CWE-79,Persistent XSS,src/main/java/Service/vulnerability/xss/persistent/PersistentXSSInHTMLTagVulnerability,57,1
 CWE-79,Reflected XSS,src/main/java/Service/vulnerability/xss/reflected/XSSInImgTagAttribute,43,1
 CWE-79,Reflected XSS,src/main/java/Service/vulnerability/xss/reflected/XSSWithHtmlTagInjection,26,1
-CWE-611,XXE,src/main/java/Service/vulnerability/xxe/XXEVulnerability,50,4
+CWE-611,XXE,src/main/java/Service/vulnerability/xxe/XXEVulnerability,59,4
